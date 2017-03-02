@@ -1,0 +1,78 @@
+C:\Users\Laura\Documents\SCHOOL\C# Class\C# Projects\Project 12-2\Project 12-2\bin\Debug\Project 12-2.exe.config
+C:\Users\Laura\Documents\SCHOOL\C# Class\C# Projects\Project 12-2\Project 12-2\bin\Debug\Project 12-2.exe
+C:\Users\Laura\Documents\SCHOOL\C# Class\C# Projects\Project 12-2\Project 12-2\bin\Debug\Project 12-2.pdb
+C:\Users\Laura\Documents\SCHOOL\C# Class\C# Projects\Project 12-2\Project 12-2\obj\Debug\Project 12-2.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Documents\SCHOOL\C# Class\C# Projects\Project 12-2\Project 12-2\obj\Debug\Project_12_2.Properties.Resources.resources
+C:\Users\Laura\Documents\SCHOOL\C# Class\C# Projects\Project 12-2\Project 12-2\obj\Debug\Project 12-2.csproj.GenerateResource.Cache
+C:\Users\Laura\Documents\SCHOOL\C# Class\C# Projects\Project 12-2\Project 12-2\obj\Debug\Project 12-2.exe
+C:\Users\Laura\Documents\SCHOOL\C# Class\C# Projects\Project 12-2\Project 12-2\obj\Debug\Project 12-2.pdb
+C:\Users\Laura\Documents\SCHOOL\C# Class\C# Projects\Project 12-2\Project 12-2\obj\Debug\Project_12_2.frmTicket.resources
+C:\Users\Laura\Documents\SCHOOL\C# Class\C# Projects\Project 12-2\Project 12-2\obj\Debug\Project_12_2.frmOptions.resources
+I:\Project 12-2\Project 12-2\bin\Debug\Project 12-2.exe.config
+I:\Project 12-2\Project 12-2\obj\Debug\Project 12-2.exe
+I:\Project 12-2\Project 12-2\obj\Debug\Project 12-2.pdb
+I:\Project 12-2\Project 12-2\bin\Debug\Project 12-2.exe
+I:\Project 12-2\Project 12-2\bin\Debug\Project 12-2.pdb
+I:\Project 12-2\Project 12-2\obj\Debug\Project 12-2.csprojResolveAssemblyReference.cache
+I:\Project 12-2\Project 12-2\obj\Debug\Project_12_2.frmTicket.resources
+I:\Project 12-2\Project 12-2\obj\Debug\Project_12_2.frmOptions.resources
+I:\Project 12-2\Project 12-2\obj\Debug\Project_12_2.Properties.Resources.resources
+I:\Project 12-2\Project 12-2\obj\Debug\Project 12-2.csproj.GenerateResource.Cache
+E:\chitra\chitra fall 2015\Visual C#\Class Group Projects\Project 12-2\Project 12-2\bin\Debug\Project 12-2.exe.config
+E:\chitra\chitra fall 2015\Visual C#\Class Group Projects\Project 12-2\Project 12-2\obj\Debug\Project 12-2.exe
+E:\chitra\chitra fall 2015\Visual C#\Class Group Projects\Project 12-2\Project 12-2\obj\Debug\Project 12-2.pdb
+E:\chitra\chitra fall 2015\Visual C#\Class Group Projects\Project 12-2\Project 12-2\bin\Debug\Project 12-2.exe
+E:\chitra\chitra fall 2015\Visual C#\Class Group Projects\Project 12-2\Project 12-2\bin\Debug\Project 12-2.pdb
+E:\chitra\chitra fall 2015\Visual C#\Class Group Projects\Project 12-2\Project 12-2\obj\Debug\Project 12-2.csprojResolveAssemblyReference.cache
+E:\chitra\chitra fall 2015\Visual C#\Class Group Projects\Project 12-2\Project 12-2\obj\Debug\Project_12_2.frmTicket.resources
+E:\chitra\chitra fall 2015\Visual C#\Class Group Projects\Project 12-2\Project 12-2\obj\Debug\Project_12_2.frmOptions.resources
+E:\chitra\chitra fall 2015\Visual C#\Class Group Projects\Project 12-2\Project 12-2\obj\Debug\Project_12_2.Properties.Resources.resources
+E:\chitra\chitra fall 2015\Visual C#\Class Group Projects\Project 12-2\Project 12-2\obj\Debug\Project 12-2.csproj.GenerateResource.Cache
+E:\chitra\chitra fall 2015\Visual C#\project 12-2-copy\Project 12-2\Project 12-2\bin\Debug\Project 12-2.exe.config
+E:\chitra\chitra fall 2015\Visual C#\project 12-2-copy\Project 12-2\Project 12-2\obj\Debug\Project 12-2.exe
+E:\chitra\chitra fall 2015\Visual C#\project 12-2-copy\Project 12-2\Project 12-2\obj\Debug\Project 12-2.pdb
+E:\chitra\chitra fall 2015\Visual C#\project 12-2-copy\Project 12-2\Project 12-2\obj\Debug\Project 12-2.csprojResolveAssemblyReference.cache
+E:\chitra\chitra fall 2015\Visual C#\project 12-2-copy\Project 12-2\Project 12-2\obj\Debug\Project_12_2.frmTicket.resources
+E:\chitra\chitra fall 2015\Visual C#\project 12-2-copy\Project 12-2\Project 12-2\obj\Debug\Project_12_2.frmOptions.resources
+E:\chitra\chitra fall 2015\Visual C#\project 12-2-copy\Project 12-2\Project 12-2\obj\Debug\Project_12_2.Properties.Resources.resources
+E:\chitra\chitra fall 2015\Visual C#\project 12-2-copy\Project 12-2\Project 12-2\obj\Debug\Project 12-2.csproj.GenerateResource.Cache
+E:\chitra\chitra fall 2015\Visual C#\project 12-2-copy\Project 12-2-practise\Project 12-2\bin\Debug\Project 12-2.exe.config
+E:\chitra\chitra fall 2015\Visual C#\project 12-2-copy\Project 12-2-practise\Project 12-2\obj\Debug\Project 12-2.exe
+E:\chitra\chitra fall 2015\Visual C#\project 12-2-copy\Project 12-2-practise\Project 12-2\obj\Debug\Project 12-2.pdb
+E:\chitra\chitra fall 2015\Visual C#\project 12-2-copy\Project 12-2-practise\Project 12-2\obj\Debug\Project 12-2.csprojResolveAssemblyReference.cache
+E:\chitra\chitra fall 2015\Visual C#\project 12-2-copy\Project 12-2-practise\Project 12-2\obj\Debug\Project_12_2.frmTicket.resources
+E:\chitra\chitra fall 2015\Visual C#\project 12-2-copy\Project 12-2-practise\Project 12-2\obj\Debug\Project_12_2.frmOptions.resources
+E:\chitra\chitra fall 2015\Visual C#\project 12-2-copy\Project 12-2-practise\Project 12-2\obj\Debug\Project_12_2.Properties.Resources.resources
+E:\chitra\chitra fall 2015\Visual C#\project 12-2-copy\Project 12-2-practise\Project 12-2\obj\Debug\Project 12-2.csproj.GenerateResource.Cache
+E:\chitra\chitra fall 2015\Visual C#\project 12-2-copy\Project 12-2-practise\Project 12-2\bin\Debug\Project 12-2.exe
+E:\chitra\chitra fall 2015\Visual C#\project 12-2-copy\Project 12-2-practise\Project 12-2\bin\Debug\Project 12-2.pdb
+E:\Project 12-2-practise\Project 12-2\bin\Debug\Project 12-2.exe.config
+E:\Project 12-2-practise\Project 12-2\obj\Debug\Project 12-2.exe
+E:\Project 12-2-practise\Project 12-2\obj\Debug\Project 12-2.pdb
+E:\Project 12-2-practise\Project 12-2\bin\Debug\Project 12-2.exe
+E:\Project 12-2-practise\Project 12-2\bin\Debug\Project 12-2.pdb
+E:\Project 12-2-practise\Project 12-2\obj\Debug\Project 12-2.csprojResolveAssemblyReference.cache
+E:\Project 12-2-practise\Project 12-2\obj\Debug\Project_12_2.frmTicket.resources
+E:\Project 12-2-practise\Project 12-2\obj\Debug\Project_12_2.frmOptions.resources
+E:\Project 12-2-practise\Project 12-2\obj\Debug\Project_12_2.Properties.Resources.resources
+E:\Project 12-2-practise\Project 12-2\obj\Debug\Project 12-2.csproj.GenerateResource.Cache
+I:\Project 12-2-practise\Project 12-2\bin\Debug\Project 12-2.exe.config
+I:\Project 12-2-practise\Project 12-2\obj\Debug\Project 12-2.exe
+I:\Project 12-2-practise\Project 12-2\obj\Debug\Project 12-2.pdb
+I:\Project 12-2-practise\Project 12-2\bin\Debug\Project 12-2.exe
+I:\Project 12-2-practise\Project 12-2\bin\Debug\Project 12-2.pdb
+I:\Project 12-2-practise\Project 12-2\obj\Debug\Project 12-2.csprojResolveAssemblyReference.cache
+I:\Project 12-2-practise\Project 12-2\obj\Debug\Project_12_2.frmTicket.resources
+I:\Project 12-2-practise\Project 12-2\obj\Debug\Project_12_2.frmOptions.resources
+I:\Project 12-2-practise\Project 12-2\obj\Debug\Project_12_2.Properties.Resources.resources
+I:\Project 12-2-practise\Project 12-2\obj\Debug\Project 12-2.csproj.GenerateResource.Cache
+E:\chitra\chitra fall 2015\Visual C#\Project 12-2-practise\Project 12-2\bin\Debug\Project 12-2.exe.config
+E:\chitra\chitra fall 2015\Visual C#\Project 12-2-practise\Project 12-2\obj\Debug\Project 12-2.exe
+E:\chitra\chitra fall 2015\Visual C#\Project 12-2-practise\Project 12-2\obj\Debug\Project 12-2.pdb
+E:\chitra\chitra fall 2015\Visual C#\Project 12-2-practise\Project 12-2\bin\Debug\Project 12-2.exe
+E:\chitra\chitra fall 2015\Visual C#\Project 12-2-practise\Project 12-2\bin\Debug\Project 12-2.pdb
+E:\chitra\chitra fall 2015\Visual C#\Project 12-2-practise\Project 12-2\obj\Debug\Project 12-2.csprojResolveAssemblyReference.cache
+E:\chitra\chitra fall 2015\Visual C#\Project 12-2-practise\Project 12-2\obj\Debug\Project_12_2.frmTicket.resources
+E:\chitra\chitra fall 2015\Visual C#\Project 12-2-practise\Project 12-2\obj\Debug\Project_12_2.frmOptions.resources
+E:\chitra\chitra fall 2015\Visual C#\Project 12-2-practise\Project 12-2\obj\Debug\Project_12_2.Properties.Resources.resources
+E:\chitra\chitra fall 2015\Visual C#\Project 12-2-practise\Project 12-2\obj\Debug\Project 12-2.csproj.GenerateResource.Cache
